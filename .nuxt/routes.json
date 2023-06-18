@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Detail",
+    "path": "/Detail",
+    "component": "/Users/isaac/Documents/perqara-movie/pages/Detail/index.vue",
+    "chunkName": "pages/Detail/index",
+    "_name": "_92b75258"
+  },
+  {
+    "name": "Movies",
+    "path": "/Movies",
+    "component": "/Users/isaac/Documents/perqara-movie/pages/Movies/index.vue",
+    "chunkName": "pages/Movies/index",
+    "_name": "_52a55f46"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/isaac/Documents/perqara-movie/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b981b23c"
+  }
+]
